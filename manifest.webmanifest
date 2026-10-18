@@ -1,4 +1,5 @@
 {
+  "id": "poisha-app",
   "name": "Poisha",
   "short_name": "Poisha",
   "description": "Daily income and spending, plus fixed monthly bills, saved to your Google Sheet.",
